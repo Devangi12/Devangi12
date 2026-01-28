@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Electronics & Communication Engineering (2024–2028)  
 📍 Pandit Deendayal Energy University (PDEU), Gandhinagar  
-📊 CGPA: 8.9  
+📊 CGPA: 9.0  
 🔬 Research | Embedded Systems | IoT | Communication Systems | AIoT  
 🚀 Passionate about building real-world impact through technology  
 
@@ -138,9 +138,9 @@ Contributed to training support, coordination, and social impact initiatives.
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: *Add your email here*  
-- 🔗 LinkedIn: *Add your LinkedIn profile here*  
-- 🌐 Portfolio: *Add your portfolio link here*  
+- 📧 Email: *devangipatel1211@gmail.com*  
+- 🔗 LinkedIn: *(http://linkedin.com/in/devangi-patel-141292325)*  
+- 🌐 Portfolio: *(https://devangi12.github.io/Devangi_Portfolio/)*  
 
 ---
 

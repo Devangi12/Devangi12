@@ -139,8 +139,8 @@ Contributed to training support, coordination, and social impact initiatives.
 
 ## 📫 Connect With Me  
 - 📧 Email: *devangipatel1211@gmail.com*  
-- 🔗 LinkedIn: *(http://linkedin.com/in/devangi-patel-141292325)*  
-- 🌐 Portfolio: *(https://devangi12.github.io/Devangi_Portfolio/)*  
+- 🔗 LinkedIn: *http://linkedin.com/in/devangi-patel-141292325*  
+- 🌐 Portfolio: *https://devangi12.github.io/Devangi_Portfolio/*  
 
 ---
 

@@ -1,0 +1,6 @@
+# STM32CubeIDE build output
+stm32/PAYLOAD/Debug/
+stm32/PAYLOAD/Release/
+
+# STM32CubeIDE metadata
+stm32/PAYLOAD/.settings/
